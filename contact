@@ -1,0 +1,108 @@
+<img class="alignnone  wp-image-48" src="http://pqhats.com/wp-content/uploads/2022/12/download-1-300x144.png" alt="" width="1069" height="513">
+
+<section id="header"><a href="#"><img class="logo" src="img/logo.png" alt=""></a>
+<div>
+<ul>
+ 	<li style="list-style-type: none;"></li>
+</ul>
+</div>
+<div id="mobile"><i class="far fa-shopping-bag"></i>
+<i id="bar" class="fas fa-outdent"></i></div>
+</section>
+<section id="page-header" class="about-header">
+<h2>Stay in Contact !!!</h2>
+LEAVE A MESSAGE, We love to hear from you!
+
+</section>
+<section id="contact-details" class="section-p1">
+<div class="details">GET IN TOUCH
+<h2>Get in Contact With Us Today</h2>
+<h3>Head Office</h3>
+<div>
+<ul>
+ 	<li><i class="fal fa-map"></i>221 Chef rd Frostburg,Maryland</li>
+ 	<li><i class="far fa-envelope"></i>p&amp;qhats@gmail.com</li>
+ 	<li><i class="fas fa-phone-alt"></i>222-323-3332</li>
+ 	<li><i class="far fa-clock"></i>Monday to Saturday: 11.00am to 9.pm</li>
+</ul>
+</div>
+</div>
+<div class="map"><img src="map1.jpeg" alt="">
+
+</div>
+</section>
+<section id="form-details">
+<form action="">LEAVE A MESSAGE
+<h2>We love to hear from you</h2>
+<input id="" name="" type="text" placeholder="Your Name">
+<input id="" name="" type="text" placeholder="E-mail">
+<input id="" name="" type="text" placeholder="Subject">
+<textarea id="" cols="30" name="" rows="10" placeholder="Your Message"></textarea>
+<button class="normal">Submit</button>
+
+</form>
+<div class="people">
+<div><img src="img/people/1.png" alt="">
+
+Phil Whitehurst CEO
+Phone: + 301 111 2222 77 88
+Email: pwhitehurst@gmail.com
+
+</div>
+<div><img src="img/people/2.png" alt="">
+
+Quenard Hawkins CEO
+Phone: + 240 123 0001
+Email: qhawkins@gmail.com
+
+</div>
+<div></div>
+</div>
+</section>
+<section id="newsletter" class="section-m1 section-p1">
+<div class="newstext"></div>
+</section>
+<footer class="section-p1">
+<div class="col">
+<div class="follow">
+<h4></h4>
+<div class="icon"><i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-pinterest-p"></i>
+<i class="fab fa-youtube"></i></div>
+</div>
+</div>
+<div class="col">
+<h4>About</h4>
+<a href="#">About Us</a>
+<a href="#">Delivery Information</a>
+<a href="#">Privacy Policy</a>
+<a href="#">Terms &amp; Conditions</a>
+<a href="#">Contact Us</a>
+
+</div>
+<div class="col">
+<h4>My Account</h4>
+<a href="#">Sign In</a>
+<a href="#">View Cart</a>
+<a href="#">My Wishlist</a>
+<a href="#">Track My Order</a>
+<a href="#">Help</a>
+
+</div>
+<div class="col install">
+<h4>Install App</h4>
+From App Store or Google Play
+<div class="row"><img src="img/pay/app.jpg" alt="">
+<img src="img/pay/play.jpg" alt=""></div>
+Secured Payment Gateways
+
+<img src="img/pay/pay.png" alt="">
+
+</div>
+<div class="copyright">
+
+© 2022, p&amp;qhats.llc
+
+</div>
